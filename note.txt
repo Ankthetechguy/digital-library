@@ -1,0 +1,1 @@
+store all styling images and pdfs in static folder and html in templates folder.
